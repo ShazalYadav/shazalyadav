@@ -74,10 +74,6 @@ Currently diving deep into **Python developer**, **Data Science**,**Web Develope
   </a>
   <a href="https://react.dev/" target="_blank" title="React">
     <img src="https://skillicons.dev/icons?i=react" alt="React"/>
-  </a>
-  <a href="https://dev.mysql.com/" target="_blank" title="MySQL">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
-</a>
   <a href="https://www.djangoproject.com/" target="_blank" title="Django">
     <img src="https://skillicons.dev/icons?i=django" alt="Django"/>
   </a>
