@@ -107,7 +107,7 @@ Currently diving deep into **Python developer**, **Data Science**,**Web Develope
 ### 📊 Statistics
 
 <div align="center">
-  <a href="https://github.com/shazalyadav">
+  <a href="https://github.com/ShazalYadav">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shazalyadav&theme=2077" height="180em" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShazalYadav&theme=2077" height="180em" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShazalYadav&theme=2077" height="180em" />
