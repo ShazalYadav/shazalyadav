@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varunkm11&label=Profile%20views&color=blueviolet&style=flat" alt="shazalyadav" />
+  <img src="https://komarev.com/ghpvc/?username=ShazalYadav&label=Profile%20views&color=blueviolet&style=flat" alt="ShazalYadav" />
 </p>
   
 ### 👋 Hi, I'm Shazal Yadav
@@ -16,7 +16,7 @@ Currently diving deep into **Python developer**, **Data Science**,**Web Develope
 
 ### 🌐 Portfolio & Resume  
 
-- 📁 **Portfolio**: [Shazal Yadav](https://my-portfolio-rho-eight-39.vercel.app/)  
+- 📁 **Portfolio**: [Shazal Yadav]()  
 - 📄 **Resume**: [Shazal_Yadav_RESUME](https://drive.google.com/file/d/1ahPFcCbjz2De6yqelVBvSIqHP-MLiuyi/view?usp=sharing)  
 - 📬 **Contact**: shazuyadav@gmail.com
 
@@ -98,9 +98,9 @@ Currently diving deep into **Python developer**, **Data Science**,**Web Develope
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=shazalyadav&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shazalyadav&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shazalyadav&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ShazalYadav&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShazalYadav&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShazalYadav&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
@@ -109,9 +109,9 @@ Currently diving deep into **Python developer**, **Data Science**,**Web Develope
 <div align="center">
   <a href="https://github.com/shazalyadav">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shazalyadav&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shazalyadav&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shazalyadav&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shazalyadav&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShazalYadav&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShazalYadav&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShazalYadav&theme=2077" height="180em" />
   </a>
 </div>
 
